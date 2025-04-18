@@ -20,9 +20,3 @@ A simple React Counter App built using React's **useState** hook. The app featur
 - **React** (with hooks)
 - **JavaScript (ES6+)**
 - **CSS** for styling
-
-## How to Run the App
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/counter-app.git
