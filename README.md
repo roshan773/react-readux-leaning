@@ -13,7 +13,7 @@ A simple React Counter App built using React's **useState** hook. The app featur
   
 ## Demo
 
-<img src="C:\Users\pakhr\OneDrive\Desktop\Roshan\react-readux-leaning\React\Counter\counter app.png">
+<img src="react-readux-leaning\React\Counter\counter app.png">
 
 ## Technologies Used
 
