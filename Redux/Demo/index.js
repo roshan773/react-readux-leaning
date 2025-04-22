@@ -1,6 +1,6 @@
-const redux = require("redux")
+const redux = require("redux");
 const  {createStore}  = redux;
-const combineReducers = redux.combineReducers
+const combineReducers = redux.combineReducers;
 
 const BUY_CAKE = "Buy cake"
 const BUY_ICECREAM = "Buy icecream"
